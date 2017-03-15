@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: proGweb
- * Date: 31/01/2017
- * Time: 17:05
- */
 
 // Get full path to this file (very usefull)
 // __FILE__ is a magic constant that gives current file path
@@ -36,6 +30,6 @@ if ($handle = opendir($basePath.DIRECTORY_SEPARATOR.'contacts')) {
 
 
 // Display
-require 'view'.DIRECTORY_SEPARATOR.'header.php';
-require 'view'.DIRECTORY_SEPARATOR.'home.php';
-require 'view'.DIRECTORY_SEPARATOR.'footer.php';
+require dirname(__FILE__).'/view'.DIRECTORY_SEPARATOR.'header.php';
+require dirname(__FILE__).'/view'.DIRECTORY_SEPARATOR.'home.php';
+require dirname(__FILE__).'/view'.DIRECTORY_SEPARATOR.'footer.php';
