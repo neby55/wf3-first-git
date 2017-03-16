@@ -1,4 +1,4 @@
-<div class="panel panel-primary">
+<div class="panel panel-default">
 	<!-- Default panel contents -->
 	<div class="panel-heading">Contacts de la session #0</div>
 	<div class="panel-body">
