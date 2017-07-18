@@ -1,5 +1,5 @@
 		<footer>
-			<div class="panel panel-primary">
+			<div class="panel panel-default">
 				<div class="panel-body text-center">&copy; Myself - Your PHP Master ^^</div>
 			</div>
 		</footer>
