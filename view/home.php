@@ -1,8 +1,8 @@
 <div class="panel panel-default">
 	<!-- Default panel contents -->
-	<div class="panel-heading">Contacts de la session #0</div>
+	<div class="panel-heading">Contacts de la session #6</div>
 	<div class="panel-body">
-		Liste des contacts de la session de formation Webforce3 #0
+		Liste des contacts de la session de formation Webforce3 #6
 	</div>
 
 	<?php if (sizeof($contactsList) > 0) : ?>
