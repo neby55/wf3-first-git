@@ -5,6 +5,6 @@
  */
 $data = array(
 	'fname' => 'Michel',
-	'lname' => 'MAGNIER M',
+	'lname' => 'MAGNIER',
 	'email' => 'michelmagnier@free.fr'
 );
